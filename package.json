@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WildanBalfas/minproReact.Js.git"
+    "url": "git+https://github.com/srireskianita/Marcom-ReactJS.git"
   },
   "keywords": [
     "React",
@@ -19,9 +19,9 @@
   "author": "Batch_156",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/WildanBalfas/minproReact.Js/issues"
+    "url": "https://github.com/srireskianita/Marcom-ReactJS/issues"
   },
-  "homepage": "https://github.com/WildanBalfas/minproReact.Js#readme",
+  "homepage": "hhttps://github.com/srireskianita/Marcom-ReactJS#readme",
   "dependencies": {
     "@material-ui/core": "^1.4.3",
     "@material-ui/icons": "^2.0.1",
